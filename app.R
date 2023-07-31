@@ -92,7 +92,7 @@ theme = shinytheme('united'),
       plotlyOutput("distPlot"),
       span("Summary of Number of Missed Demands"),
       verbatimTextOutput("NumSum"),
-      plotlyOutput("Histogram",height = "370px")
+      plotlyOutput("Histogram",height = "360px")
     )
   )
 )
