@@ -18,6 +18,7 @@ ui <- fluidPage(
 <!-- Google / Search Engine Tags -->
 <meta name="title" content="Inventory Simulation">
 <meta name="description" content="SImulate Inventory Demands">
+
 <meta name="image" content="https://media2.giphy.com/media/3ohs7UjgdqCnkEYcsE/giphy.gif?cid=ecf05e47mqaav8fsgfigc5ajmhzfs3797vkekvp2gutdnmgt&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <!-- Facebook Meta Tags -->
